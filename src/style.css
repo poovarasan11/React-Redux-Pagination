@@ -1,0 +1,13 @@
+.data-table{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: none;
+    padding-bottom: 10px;
+}
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-inline: 20px;
+}
